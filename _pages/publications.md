@@ -1,7 +1,5 @@
 ---
 title: "Published Work"
-header:
-  overlay_color: "#333"
 layout: single
 excerpt: "A compilation of my talks, posters, published papers and abstracts"
 sitemap: false
