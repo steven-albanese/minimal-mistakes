@@ -120,6 +120,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -256,8 +257,6 @@ defaults:
       related: true
 
 remote_theme: "mmistakes/minimal-mistakes"
-include: ["_pages"]
-include: ["_posts"]
 minimal_mistakes_skin: "contrast"
 search: true
 og_image: "images/logo.png"
