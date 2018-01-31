@@ -1,12 +1,10 @@
 ---
-defaults: 
-values: 
-  title: "About"
-  layout: single
-  excerpt: "Hi!"
-  sitemap: false
-  permalink: /about/
-  author_profile: true
+title: "About"
+layout: single
+excerpt: "Hi!"
+sitemap: false
+permalink: /about/
+author_profile: true
 ---
 
 My name is Steven Albanese. Currently, I am in my 4th year as a a PhD student
