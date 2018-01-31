@@ -256,3 +256,5 @@ defaults:
       related: true
 
 remote_theme: "mmistakes/minimal-mistakes"
+include: ["_pages"]
+include: ["_posts"]
