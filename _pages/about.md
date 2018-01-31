@@ -1,10 +1,12 @@
 ---
-title: "About"
-layout: single
-excerpt: "Hi!"
-sitemap: false
-permalink: /about/
-author_profile: true
+defaults: 
+values: 
+  title: "About"
+  layout: single
+  excerpt: "Hi!"
+  sitemap: false
+  permalink: /about/
+  author_profile: true
 ---
 {% include base_path %}
 
