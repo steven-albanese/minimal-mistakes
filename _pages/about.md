@@ -8,7 +8,6 @@ values:
   permalink: /about/
   author_profile: true
 ---
-{% include base_path %}
 
 My name is Steven Albanese. Currently, I am in my 4th year as a a PhD student
 at [Memorial Sloan Kettering Cancer Center](https://www.sloankettering.edu/gerstner)
