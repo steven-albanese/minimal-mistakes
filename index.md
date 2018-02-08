@@ -1,5 +1,5 @@
 ---
-title: "Steven K. Albanese"
+#title: "Steven K. Albanese"
 layout: splash
 header:
   overlay_color: "#fff"
