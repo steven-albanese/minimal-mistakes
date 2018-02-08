@@ -6,7 +6,7 @@ header:
   caption: "erlotinib bound to EGFR"
 author_profile: true
 feature_row:
-  - image_path: images/profile.jpg
+  - image_path: /images/profile.jpg
     excerpt: "Learn more about me and my background"
     url: /about/
     btn_label: "About Me"
