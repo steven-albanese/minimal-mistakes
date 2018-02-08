@@ -11,7 +11,6 @@ feature_row:
     url: /about/
     btn_label: "About Me"
     btn_class: "btn--primary"
-feature_row2:
   - image_path: /images/mtor-labeled.png
     excerpt: "See more about my published work, posters and talks"
     url: /publications/
@@ -20,4 +19,4 @@ feature_row2:
 --- 
 
 {% include feature_row type="left" %}
-{% include feature_row id=feature_row2 type="right" %}
+#{% include feature_row id=feature_row2 type="right" %}
