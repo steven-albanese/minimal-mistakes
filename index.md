@@ -14,7 +14,7 @@ feature_row:
 feature_row2:
   - image_path: /images/mtor-labeled.png
     excerpt: "See more about my published work, posters and talks"
-    url: /publications
+    url: /publications/
     btn_label: "Read More"
     btn_class: "btn--primary"
 --- 
