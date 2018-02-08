@@ -16,7 +16,7 @@ feature_row:
     url: /publications/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path /images/choderalab.png
+  - image_path: /images/choderalab.png
     excerpt: "See more about the work we're doing in the Chodera lab at [MSKCC](https://www.sloankettering.edu/gerstner)
     url: "www.choderalab.org"
     btn_label: "Take me to the Chodera Lab"
