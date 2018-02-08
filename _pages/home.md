@@ -28,4 +28,5 @@ section:
     actions:
       - label: "See More"
         url: "/publications/"
+classes: wide
 ---

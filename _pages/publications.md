@@ -5,6 +5,7 @@ excerpt: "A compilation of my talks, posters, published papers and abstracts"
 sitemap: false
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 ## Papers
