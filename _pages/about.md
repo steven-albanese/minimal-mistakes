@@ -21,3 +21,5 @@ I am also interested in automating wetlabs to streamline high throughput molecul
 Committtee: John D. Chodera, Sarat Chandarlapaty, Daniel A. Heller, Robert Abel
 
 *B.A, Biological Sciences and Chemistry*, Cornell University (2010-2014) 
+
+Read more about my background and publications in my CV! [![logo](/images/lab-meeting-logo.png)](/assets/ska-cv.pdf)
